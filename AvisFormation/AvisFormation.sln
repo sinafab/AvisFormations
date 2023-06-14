@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvisFormation", "AvisFormation\AvisFormation.csproj", "{85581E8B-29AA-4C72-8FBD-59139A1A378F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvisFormationUI", "AvisFormation\AvisFormationUI.csproj", "{85581E8B-29AA-4C72-8FBD-59139A1A378F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvisFormation.Data", "AvisFormation.Data\AvisFormation.Data.csproj", "{A272B42F-FCB1-4357-9D54-A1AEB7C929B4}"
 EndProject
