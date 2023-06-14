@@ -1,7 +1,19 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿
+using AvisFormation.Data.Data;
+using Microsoft.EntityFrameworkCore;
+
+var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = builder.Configuration.GetConnectionString("test_asp") ?? throw new
+    InvalidOperationException("connection string 'test_ap' don't find");
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//connectionString to mysql database
+builder.Services.AddDbContextPool<AvisFormationdbContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
 
 var app = builder.Build();
 

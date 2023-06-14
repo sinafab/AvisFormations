@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{85581E8B-29AA-4C72-8FBD-59139A1A378F}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../AvisFormation/AvisFormation/Program.cs">
+    <Files>
+      <File FileName="../../AvisFormation/AvisFormation/appsettings.json" Line="3" Column="14" />
+      <File FileName="../../AvisFormation/AvisFormation/Program.cs" Line="14" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AvisFormation" expanded="True">
+            <Node name="AvisFormation.Data" expanded="True" />
+            <Node name="AvisFormationUi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AvisFormationUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AvisFormation.Logic FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AvisFormation.Data FirstBuild="True" />
+</Properties>

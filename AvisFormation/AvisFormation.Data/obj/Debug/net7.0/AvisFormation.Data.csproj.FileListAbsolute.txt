@@ -1,0 +1,14 @@
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/bin/Debug/net7.0/AvisFormation.Data.deps.json
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/bin/Debug/net7.0/AvisFormation.Data.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/bin/Debug/net7.0/AvisFormation.Data.pdb
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.csproj.AssemblyReference.cache
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.AssemblyInfoInputs.cache
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.AssemblyInfo.cs
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.csproj.CoreCompileInputs.cache
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/refint/AvisFormation.Data.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.pdb
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/ref/AvisFormation.Data.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/bin/Debug/net7.0/AvisFormation.Data.runtimeconfig.json
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Data/obj/Debug/net7.0/AvisFormation.Data.genruntimeconfig.cache
