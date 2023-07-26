@@ -15,5 +15,6 @@ public partial class Formation
 
     public string NomSeo { get; set; } = null!;
 
+    //foreign keys
     public virtual ICollection<Avi> Avis { get; set; } = new List<Avi>();
 }

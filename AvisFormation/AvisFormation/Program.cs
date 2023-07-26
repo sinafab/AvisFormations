@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("test_asp") ?? throw new
+var connectionString = builder.Configuration.GetConnectionString("formationdb") ?? throw new
     InvalidOperationException("connection string 'test_ap' don't find");
 
 

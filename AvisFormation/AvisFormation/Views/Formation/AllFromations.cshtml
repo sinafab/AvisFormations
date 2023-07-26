@@ -1,0 +1,17 @@
+﻿@model List<AvisFormation.Data.Data.Formation>
+@{
+    ViewBag.Title = "Toutes les Formations";
+}
+
+<h2> Toutes les Formations</h2>
+
+@foreach(var formation in Model)
+{
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@formation.Nom</h5>
+                <p class="card-text">@formation.Description</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+        </div>
+}

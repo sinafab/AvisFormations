@@ -1,0 +1,17 @@
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/bin/Debug/net7.0/AvisFormation.Logic.deps.json
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/bin/Debug/net7.0/AvisFormation.Logic.runtimeconfig.json
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/bin/Debug/net7.0/AvisFormation.Logic.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/bin/Debug/net7.0/AvisFormation.Logic.pdb
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/bin/Debug/net7.0/AvisFormation.Data.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/bin/Debug/net7.0/AvisFormation.Data.pdb
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.csproj.AssemblyReference.cache
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.AssemblyInfoInputs.cache
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.AssemblyInfo.cs
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.csproj.CoreCompileInputs.cache
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.csproj.CopyComplete
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/refint/AvisFormation.Logic.dll
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.pdb
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/AvisFormation.Logic.genruntimeconfig.cache
+/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation.Logic/obj/Debug/net7.0/ref/AvisFormation.Logic.dll
