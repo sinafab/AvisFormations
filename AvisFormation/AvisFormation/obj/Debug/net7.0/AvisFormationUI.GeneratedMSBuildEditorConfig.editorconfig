@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation/Views/Avis/LeaveAComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXZpcy9MZWF2ZUFDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation/Views/Formation/AllFromations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybWF0aW9uL0FsbEZyb21hdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation/Views/Formation/DetailsFromation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybWF0aW9uL0RldGFpbHNGcm9tYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mainguest/Projects/AvisFormations/AvisFormation/AvisFormation/Views/Home/Index.cshtml]

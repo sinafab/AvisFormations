@@ -1,0 +1,18 @@
+﻿@model AvisFormationUI.Models.FormationAvecAvis
+@{
+    ViewBag.Title = Model.FormationNom;
+}
+
+<div>
+    <h1>@Model.FormationNom</h1>
+</div>
+<div>@Model.FormationDescription</div>
+
+@foreach(var avis in Model.Avis)
+{
+    <div>
+        <div>@avis.Nom lkjlk</div>
+        <div>@avis.Description</div>
+        <br/>
+    </div>
+}

@@ -1,0 +1,40 @@
+﻿@model AvisFormationUI.Models.LeaveAComment
+@{
+    ViewBag.Title = "Laisser un Avis "+Model.FormationName;
+}
+
+
+<h1>Laisser un commentaire @Model.FormationName</h1>
+
+
+
+@using (Html.BeginForm("SaveComment", "Avis", FormMethod.Post))
+{
+
+    <div>
+        <div class="col-12">
+            <input type="text" class="form-control" placeholder="First name">
+        </div>
+        <div class="col-12">
+            <label for="commentaire">Commentaire</label>
+            <textarea class="form-control" name="commentaire" id="commentaire"></textarea>
+        </div>
+        <div>
+            <label>choisissez une note entre 1 et 5 (5 est la meilleur note)</label>
+            <select name="note" id="note" class="form-select">
+                <option selected>Open this select menu</option>
+                <option>1</option>
+                <option>1.5</option>
+                <option>2</option>
+                <option>2.5</option>
+                <option>3</option>
+                <option>3.5</option>
+                <option>4</option>
+                <option>4.5</option>
+                <option>5</option>
+            </select>
+        </div>
+        <input type="submit" value="envoyer"/>
+    </div>
+   
+}
