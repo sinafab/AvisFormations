@@ -11,11 +11,11 @@ public partial class Avi
 
     public string? Description { get; set; }
 
-    public float Note { get; set; }
+    public double Note { get; set; }
 
     public DateTime DateAvis { get; set; }
 
-    public string UserId { get; set; } = null!;
+    public string? UserId { get; set; }
 
     public int IdFormation { get; set; }
 

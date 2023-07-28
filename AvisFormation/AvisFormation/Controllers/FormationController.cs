@@ -38,8 +38,6 @@ namespace AvisFormationUI.Controllers
             {
                 //firstOrDefault will send null if it's not find
                 var findFormationByNameSeo = context.Formations.Where(f=>f.NomSeo == nameSeo).FirstOrDefault();
-                List<Avi> listFromations = new List<Avi>();
-
                 if (findFormationByNameSeo == null)
                 {
                     return RedirectToAction("Index", "Home");
@@ -49,7 +47,7 @@ namespace AvisFormationUI.Controllers
                 formationWithReviews.FormationDescription = findFormationByNameSeo.Description;
                 formationWithReviews.FormationNomSeo = nameSeo;
                 formationWithReviews.FormationUrl = findFormationByNameSeo.Url;
-                formationWithReviews.Avis = context.Avis.Where(a=>a.IdFormation == findFormationByNameSeo.Id).ToList();
+                formationWithReviews.Avis = context.Avis.Where(a => a.IdFormation == findFormationByNameSeo.Id).OrderByDescending(a => a.DateAvis).ToList();
                 if (formationWithReviews.Avis.Count > 0)
                     formationWithReviews.Note = formationWithReviews.Avis.Average(a => a.Note);
                 formationWithReviews.NombreAvis = formationWithReviews.Avis.Count;

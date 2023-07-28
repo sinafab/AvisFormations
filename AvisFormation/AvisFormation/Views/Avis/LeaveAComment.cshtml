@@ -13,16 +13,17 @@
 
     <div>
         <div class="col-12">
-            <input type="text" class="form-control" placeholder="First name">
+            <label for="nom">Nom</label>
+            <input type="text" class="form-control" name="nom" placeholder="First name">
         </div>
         <div class="col-12">
             <label for="commentaire">Commentaire</label>
             <textarea class="form-control" name="commentaire" id="commentaire"></textarea>
         </div>
         <div>
-            <label>choisissez une note entre 1 et 5 (5 est la meilleur note)</label>
+            <label for="note">choisissez une note entre 1 et 5 (5 est la meilleur note)</label>
             <select name="note" id="note" class="form-select">
-                <option selected>Open this select menu</option>
+                <option >Note</option>
                 <option>1</option>
                 <option>1.5</option>
                 <option>2</option>
@@ -35,6 +36,8 @@
             </select>
         </div>
         <input type="submit" value="envoyer"/>
+
+        <input type="hidden" value="@Model.NomSeo" name="nomSeo" id="nomSeo"/>
     </div>
    
 }
